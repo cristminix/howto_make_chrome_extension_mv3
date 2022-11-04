@@ -1,0 +1,13 @@
+{
+	"name" : "Chapter 1 (MV3) Hello World!",
+	"version" : "1.0",
+	"manifest_version" : 3,
+	"description" : "Init Chapter 1",
+	"action" : {
+		"default_title" : "Saya Chapter 1",
+		"default_popup" : "popup.html",
+		"default_icon" : {
+			"32" : "chapter_01_32.png"
+		}
+	}
+}

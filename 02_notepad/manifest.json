@@ -1,0 +1,13 @@
+{
+	"name" : "Chapter 2 (MV3) Notepad",
+	"version" : "1.0",
+	"manifest_version" : 3,
+	"description" : "Akses localStorage",
+	"action" : {
+		"default_title" : "Saya Chapter 2",
+		"default_popup" : "popup.html",
+		"default_icon" : {
+			"32" : "chapter_02_32.png"
+		}
+	}
+}
