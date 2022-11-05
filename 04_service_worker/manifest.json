@@ -1,0 +1,19 @@
+{
+	"name" : "Chapter 4 (MV3) Service Worker",
+	"version" : "1.0",
+	"manifest_version" : 3,
+	"description" : "Using service worker scripts",
+	"permissions" : [
+		"tabs"	
+	],
+	"background" : {
+		"service_worker" : "background.js"
+	},
+	"action" : {
+		"default_title" : "Saya Chapter 4",
+		"default_popup" : "popup.html",
+		"default_icon" : {
+			"32" : "chapter_04_32.png"
+		}
+	}
+}
